@@ -1,0 +1,21 @@
+
+h1 {color: green}
+p {color: dark grey}
+a:visited {
+        color: #8F8E8E; /* Цвет посещённой ссылки */
+        }
+a:hover {
+        color: #CE242B; /* Цвет ссылки при наведении */
+        text-decoration: underline; /* Добавляем подчёркивание */
+        }
+
+img {
+  float: left;
+}
+
+.clear {
+  clear: both;
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+
